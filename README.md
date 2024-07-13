@@ -1,4 +1,4 @@
-➤ ## Project Overview
+## ➤  Project Overview
 
 This project was centered around harnessing the power of SQL to analyze extensive datasets from AtliQ Hardware. The goal was to derive actionable insights into sales performance, market trends, customer behavior, and supply chain efficiency.
 
