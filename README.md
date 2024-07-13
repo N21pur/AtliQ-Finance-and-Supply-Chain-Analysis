@@ -17,7 +17,7 @@ Sales Performance Enhancement: Developed strategies to optimize sales and improv
 Market Expansion Opportunities: Identified potential areas for growth and market expansion.
 Market Trend Insights: Delivered comprehensive analysis of current market trends.
 Customer Insights: Gained a deep understanding of customer preferences and behaviors.
-#Key Project Achievements
+# Key Project Achievements
 
 In-depth Reports: Created detailed reports showcasing top-performing markets, products, and customer segments.
 Sales Analysis: Analyzed net sales share by region, supporting strategic decision-making.
