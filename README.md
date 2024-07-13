@@ -9,8 +9,8 @@ With large Excel files leading to performance bottlenecks, the project aimed to 
 
 # ✔  Tools Used
 
-. MySQL: For advanced querying and data transformation.
-Excel: For data preprocessing and visualization.
+  MySQL: For advanced querying and data transformation.
+  Excel: For data preprocessing and visualization.
 # ✔  Key Business Insights
 
 Sales Performance Enhancement: Developed strategies to optimize sales and improve revenue.
