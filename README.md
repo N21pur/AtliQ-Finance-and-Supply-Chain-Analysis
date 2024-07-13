@@ -6,10 +6,10 @@ This project was centered around harnessing the power of SQL to analyze extensiv
 
 With large Excel files leading to performance bottlenecks, the project aimed to leverage MySQL for transforming raw data into strategic business insights.
 
-## Tools Used
+## Methodologies and Tools
 
-* **MySQL:** For advanced querying and data transformation.
-* **Excel:** For data preprocessing and visualization.
+* **Data Transformation:** Implemented using MySQL for efficient querying and manipulation.
+* **Data Visualization:** Leveraged Excel for visualizing and presenting data insights.
 
 ## Key Business Insights
 
@@ -18,7 +18,7 @@ With large Excel files leading to performance bottlenecks, the project aimed to 
 * **Market Trend Insights:** Delivered comprehensive analysis of current market trends.
 * **Customer Insights:** Gained a deep understanding of customer preferences and behaviors.
 
-## Key Project Achievements
+## Key Project Highlights
 
 * **In-depth Reports:** Created detailed reports showcasing top-performing markets, products, and customer segments.
 * **Sales Analysis:** Analyzed net sales share by region, supporting strategic decision-making.
