@@ -9,7 +9,7 @@ With large Excel files leading to performance bottlenecks, the project aimed to 
 
 # ✔  Tools Used
 
-# . MySQL: For advanced querying and data transformation.
+. MySQL: For advanced querying and data transformation.
 Excel: For data preprocessing and visualization.
 # ✔  Key Business Insights
 
